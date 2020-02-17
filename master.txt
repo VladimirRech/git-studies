@@ -5,3 +5,4 @@ Text inserted on dev.
 FIRST: inserted on my-branch
 SECOND: inserted on dev
 THIRD: that will cause some errors
+FOURTH: testing
