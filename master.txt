@@ -2,4 +2,6 @@ File created and sent to master.
 File changed in dev branch.
 Text inserted on dev.
 
+FIRST: inserted on my-branch
 SECOND: inserted on dev
+
